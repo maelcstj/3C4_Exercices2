@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.vs/
+
+3C4_Exercices/bin/
+
+3C4_Exercices/obj/
+
+*.user
