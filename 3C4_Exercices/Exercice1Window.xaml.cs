@@ -16,24 +16,13 @@ using System.Windows.Shapes;
 namespace _3C4_Exercices
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Exercice1Window.xaml
     /// </summary>
-    public partial class DemoMPWindow : Window
+    public partial class Exercice1Window : Window
     {
-        public DemoMPWindow()
+        public Exercice1Window()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            var window = new DemoMPWindow();
-            window.Show();
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
